@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <item>
+        <title>This is my first post from xml</title>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut leo vitae urna eleifend fringilla. Ut tincidunt risus et orci viverra non accumsan urna bibendum. Fusce sagittis tortor eu justo fermentum egestas. Sed interdum, leo a tempus con.</description>
+    </item>
+    <item>
+        <title>This is my second post from xml</title>
+        <description>Nullam eros odio, luctus et rutrum sed, varius ac enim. Aliquam nunc ante, lacinia sed porta nec, iaculis a ligula. Phasellus sagittis cursus purus, non interdum elit aliquam non. Nam lorem nibh, facilisis at scelerisque nec, tempus ac lacus maecena.</description>
+    </item>
+    <item>
+        <title>This is my third post from xml</title>
+        <description>Nullam eros odio, luctus et rutrum sed, varius ac enim. Aliquam nunc ante, lacinia sed porta nec, iaculis a ligula. Phasellus sagittis cursus purus, non interdum elit aliquam non. Nam lorem nibh, facilisis at scelerisque nec, tempus ac lacus maecena.</description>
+    </item>
+</channel>
+</rss>
