@@ -64,6 +64,9 @@ Static Properties And Methods
 Using static properties and methods can help you write less verbose code. But bear in mind, statics do not behave like true objects.
 
 Traits
------------------------------
+------
 PHP 5.4 introduced traits. A trait is a class containing in which you can group a set of behaviours that can be later 'plugged' in any class. How's that for reusable code? In this video, we'll create a small Curl trait and and setter/getter trait. And we'll include both of them in a single class. 
 
+Dependency Injection
+--------------------
+In order to achieve the holy grail of decoupling, you cannot go without depenedncy injection. Depenedncy injection seems to be clouded in mystery. It doesn't have to be. in this video, I'll help you create two examples of dependency injection. 
